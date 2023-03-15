@@ -11,4 +11,5 @@ Machine Learning model trained to play Tic Tac Toe by generating its own trainin
 4. Create application with two modes:
 
 -human: play against Q-Learning Agent
+
 -watch: watch Q-Learning Agent play against itself
