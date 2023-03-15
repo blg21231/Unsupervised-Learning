@@ -1,6 +1,6 @@
 # Unsupervised-Learning
 
-Machine Learning model trained to play Tic Tac Toe by generating its own data by playing against itself
+Machine Learning model trained to play Tic Tac Toe by generating its own training data by playing against itself
 
 1. Build Tic Tac Toe game from scratch
 
